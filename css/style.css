@@ -1,0 +1,83 @@
+
+header{
+    background-color: black;
+    margin-bottom: 2%;
+}
+header h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    padding: 2%;
+}
+
+
+
+
+
+
+main{
+    font-family: 'Noto Sans', sans-serif;;
+    position: relative;;
+    background-image: url(blob:https://alqudscollege-my.sharepoint.com/d7cb75dc-df73-457d-932b-c4204cb97017); /* the img path JFIF File (.jfif) dosint work */
+}
+#donatForm{
+    background-color: rgb(98, 122, 189);
+    width: 30%;
+    height: 200px;
+   
+    position: absolute;
+left: 5%;
+}
+
+#tableDiv{
+    background-color: rgb(98, 122, 189);
+    width: 50%;
+    height: 500px;
+    position: absolute;
+    left: 45%;
+    
+
+}
+fieldset{
+    margin-left: 30%;
+    margin-top: 4%;
+    
+}
+#select{
+    width: 48%;
+}
+
+
+table{
+    width: 70%;
+    margin-top: 20%;
+    color: white;
+    margin-left: 16%;
+    padding: 1%;
+}
+thead{
+    background-color: black;
+
+}
+
+
+table ,th, td {
+    border: 1px solid white;
+}
+td{
+    background-color: gray;
+text-align: center;
+}
+
+
+#submit{
+background-color: black;
+color: white;
+}
+
+label{
+    margin-left: 3%;
+    color: white;
+   
+}
